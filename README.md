@@ -2,7 +2,7 @@
 
 Welcome to the Sentiment Analysis Web App! This project lets you enter any text review and instantly see if it’s **Positive** or **Negative**—using both a Support Vector Machine (SVM) and a Neural Network (NN) model.
 
----ZXCZC
+---
 
 ## 🚀 Features
 
