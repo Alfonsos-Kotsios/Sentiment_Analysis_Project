@@ -86,12 +86,3 @@ Welcome to the Sentiment Analysis Web App! This project lets you enter any text 
 - Project report: `Advanced_Data_Analysis.pdf`
 
 ---
-
-## 🙏 Credits
-
-- Libraries: scikit-learn, Keras, TensorFlow, NLTK, BeautifulSoup, Flask
-- Dataset: *(Add your dataset source here)*
-
----
-
-*Feel free to explore, modify, and use this project for your own sentiment analysis tasks! For more details, check the notebook and the
